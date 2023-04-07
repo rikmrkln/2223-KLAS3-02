@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    background: silver;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+  }
+  
+  #player {
+    background: black;
+    height: 20px;
+    width: 20px;
+    position: absolute;
+  }
+  
+  #appel {
+    background: green;
+    height: 20px;
+    width: 20px;
+    position: absolute;
+  }
+  
+  #instructies {
+    position: absolute;
+    margin-top: 450px;
+    margin-left: 10px;
+  }
+  #score{
+    position: absolute;
+    margin-top: 450px;
+    margin-left: 300px;
+  }
+  #container {
+    display: none;
+  }
+  
+  #startpagina {
+    position: absolute;
+    text-align: center;
+    margin-left: 500px;
+  }
